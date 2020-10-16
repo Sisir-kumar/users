@@ -1,0 +1,14 @@
+.card{
+    text-align: center;
+}
+.img-fluid{
+    border-radius: 50%;
+    padding: 10px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.loading{
+    top: 50%;
+}
